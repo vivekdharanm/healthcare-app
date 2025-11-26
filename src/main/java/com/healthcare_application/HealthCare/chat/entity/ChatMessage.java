@@ -6,8 +6,6 @@
 @Setter
 public class ChatMessage 
 {
-
-
 	public String getSender() {
 		return sender;
 	}
