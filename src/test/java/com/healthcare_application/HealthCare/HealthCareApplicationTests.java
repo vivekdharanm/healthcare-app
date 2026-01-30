@@ -8,7 +8,9 @@ class HealthCareApplicationTests
 {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() 
+	{
+		
 	}
 
 }
